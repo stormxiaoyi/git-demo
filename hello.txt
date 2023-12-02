@@ -1,5 +1,5 @@
 hello git! master-test conflict
-hello git!
+hello git! hot-fix-test conflict
 hello git!
 hello git!
 hello git!
